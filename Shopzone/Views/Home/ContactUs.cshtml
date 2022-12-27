@@ -1,0 +1,326 @@
+﻿@model List<Shopzone.Models.Product>
+
+@{
+    var product = (List<Shopzone.Models.Product>)ViewBag.viewproduct;
+    Layout = null;
+    bool IsUserLoggedIn = Session["email"] == null;
+    //bool checkAdminUser = Session["email"] = "sheheryarizhar@gmail.com";
+}
+
+@*
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title></title>
+    </head>
+    <body>
+        <div>
+            <ul>
+                <li><a href="/Home/Index/">Home</a></li>
+                <li><a href="/Video/MyVideos/">My Videos</a></li>
+                <li><a href="#">Subscription</a></li>
+            </ul>
+        </div>
+        <p>@Session["email"]</p>
+        @if (video != null && video.Count > 0)
+        {
+            foreach (var v in video)
+            {
+                <ol>
+                    <li>
+                        <a href="/Video/Play?id=@v.id">@v.title</a>
+                    </li>
+                </ol>
+            }
+        }
+        else
+        {
+            <p>No Record Found</p>
+        }
+
+        <a href="/Video/Upload/">Upload Video</a>
+
+
+    </body>
+    </html>
+
+*@
+
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Magazine &mdash; All Videos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
+    <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
+    <meta name="author" content="FREEHTML5.CO" />
+
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
+
+    <link rel="shortcut icon" href="favicon.ico">
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic|Roboto:400,300,700' rel='stylesheet' type='text/css'>
+    <!-- Animate -->
+    <link rel="stylesheet" href="~/Assets/Homepagevideotemplate/css/animate.css">
+    <!-- Icomoon -->
+    <link rel="stylesheet" href="~/Assets/Homepagevideotemplate/css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="~/Assets/Homepagevideotemplate/css/bootstrap.css">
+
+    <link rel="stylesheet" href="~/Assets/Homepagevideotemplate/css/style.css">
+
+    <!-- Modernizr JS -->
+    <script src="~/Assets/Homepagevideotemplate/js/modernizr-2.6.2.min.js"></script>
+    @* <style>
+            img.img-responsive {
+                width: 300px;
+                height: 250px;
+            }
+        </style>*@
+    <style>
+        #fh5co-header {
+            padding: 1em 1em;
+        }
+
+            #fh5co-header .fh5co-nav-toggle {
+                top: 1em;
+            }
+
+        h1, .h1, h2, .h2, h3, .h3 {
+            margin-top: 5px;
+            margin-bottom: 30px;
+        }
+
+        #fh5co-header .fh5co-social {
+            position: absolute !important;
+            right: 3em !important;
+            top: 0px;
+            z-index: 99;
+            -webkit-transition: 0.5s;
+            -o-transition: 0.5s;
+            transition: 0.5s;
+            display: none;
+        }
+        .mySlides {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 1350px;
+            height: 480px;
+            margin-bottom: 50px;
+        }
+    @@media only screen and (max-width: 600px) {
+        .mySlides {
+            width: 600px;
+            height: 380px;
+        }
+    }
+    input[type="submit"] {
+        background-color: #ff0808;
+        color: white;
+    }
+
+
+
+    @*for nav menu*@
+    .topnav{
+        margin: auto;
+
+  border: 3px solid green;
+
+    }
+    .topnav a {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .topnav a.active {
+            background-color: #04AA6D;
+            color: white;
+        }
+        .contact_us{
+            margin: auto;
+            width: 15%;
+        }
+    </style>
+</head>
+<body>
+    <div id="fh5co-offcanvas" style="background-color: black; color: white">
+        <a href="#" class="fh5co-close-offcanvas js-fh5co-close-offcanvas"><span><i class="icon-cross3"></i> <span>Close</span></span></a>
+        <div class="fh5co-bio">
+            <figure>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhyhj1gUUYu1c8817GfPwApJbYzW9lJdjSXQ&usqp=CAU" alt="Free HTML5 Bootstrap Template" class="img-responsive1">
+            </figure>
+            <h3 class="heading">About Me</h3>
+            <h2>@Session["email"]</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+            <ul class="fh5co-social">
+                <li><a href="#"><i class="icon-twitter"></i></a></li>
+                <li><a href="#"><i class="icon-facebook"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
+            </ul>
+        </div>
+
+        <div class="fh5co-menu">
+            <h3 style="color: orange;">Your Account</h3>
+            <div class="fh5co-box">
+
+                <h3 class="heading">@Session["name"]</h3>
+                <ul>
+                    @if (IsUserLoggedIn)
+                    {
+                        <li><a href="/User/SignIn/" style="color: white">Signin</a></li>
+                        <li><a href="/User/SignUp/" style="color: white">Signup</a></li>
+                    }
+                    else
+                    {
+                        if (Session["email"].ToString() == "sheheryarizhar@gmail.com")
+                        {
+                            <li><a href="/Product/MyProduct/" style="color: white">My Products</a></li>
+                            <li><button><a href="/Product/Upload/" style="color: black">Upload Product</a></button></li>
+                        }
+                        <li><a href="/Home/Index/" style="color: white">Home</a></li>
+                        <li><a href="/User/updateUserInfo/" style="color: white">Settings</a></li>
+                        <li><a href="/User/Logout" style="color: white">Logout</a></li>
+                    }
+                </ul>
+            </div>
+            <div class="fh5co-box">
+                <h3 class="heading">Search</h3>
+                <form action="#">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Type a keyword">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <header id="fh5co-header">
+
+        <div class="container-fluid">
+
+            <div class="row">
+                <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
+                <ul class="fh5co-social">
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-instagram"></i></a></li>
+                </ul>
+                <div class="col-lg-12 col-md-12 text-center">
+                    <h1 id="fh5co-logo"><a href="/Home/Index/">ShopZone <sup>TM</sup></a></h1>
+                </div>
+
+            </div>
+
+        </div>
+
+    </header>
+    <!-- END #fh5co-header -->
+
+    <div class="topnav">
+        <a class="active" href="/Home/Index">Home</a>
+        <a href="/Home/ContactUs">Contact</a>
+        <a href="/Home/AboutUs">About</a>
+        <a href="/Product/Checkoutpage">Checkout</a>
+    </div>
+
+
+    <div class="w3-content w3-section" style="max-width:500px">
+        <img class="mySlides" src="https://tipsmake.com/data/images/collection-of-the-most-beautiful-fashion-banners-picture-32-8h2n0YQtr.jpg">
+        <img class="mySlides" src="https://cdn.shopify.com/s/files/1/0549/9758/2071/files/white_shoppy-_Women-1_1728x.jpg?v=1634204615">
+        <img class="mySlides" src="https://tipsmake.com/data/images/collection-of-the-most-beautiful-fashion-banners-picture-27-MBIlgV7PA.jpg">
+        <img class="mySlides" src="https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/27ffbd0ce1dde7b397af65ec9a583624-1591522309/KIDS/design-the-perfect-banner-or-header-for-your-website.jpg">
+    </div>
+
+    <!--<div style="display:grid; place-items: center">
+        <form method="post" action="/Home/Index">
+            <label>Search</label>
+            <input type="text" name="search1" />
+            <input type="submit" value="Search" />
+        </form>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row fh5co-post-entry">
+
+            @if (product != null && product.Count > 0)
+            {
+                foreach (var p in product)
+                {
+                    <article class="col-lg-3 col-md-3 col-sm-3 col-xs-6 col-xxs-12 animate-box">
+                        <figure>
+                            <a href="/Product/Show?id=@p.id"><img src="@p.source" alt="Image" class="img-responsive"></a>
+                        </figure>
+                        <span class="fh5co-meta"><a href="/Product/Show?id=@p.id"><del>UTC: @p.price</del><label style="color: red">&nbsp&nbsp&nbsp&nbsp UTC: @p.selling_price</label> </a></span>
+                        <h2 class="fh5co-article-title"><a href="/Product/Show?id=@p.id">@p.title</a></h2>
+                        <span class="fh5co-meta fh5co-date">@p.uploadedat</span>
+                    </article>
+                }
+            }-->
+    @* <div class="clearfix visible-lg-block visible-md-block visible-sm-block visible-xs-block"></div>
+    *@
+    <!--<div class="clearfix visible-xs-block"></div>
+        </div>
+    </div>-->
+
+<div class="contact_us">
+    <h1>Contact Us</h1>
+    <p> Phone: 00971507978652</p>
+</div>
+
+    <script>
+        var myIndex = 0;
+        carousel();
+
+        function carousel() {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            myIndex++;
+            if (myIndex > x.length) { myIndex = 1 }
+            x[myIndex - 1].style.display = "block";
+            setTimeout(carousel, 2000); // Change image every 2 seconds
+        }
+    </script>
+
+
+
+
+
+    <!-- jQuery -->
+    <script src="~/Assets/Homepagevideotemplate/js/jquery.min.js"></script>
+    <!-- jQuery Easing -->
+    <script src="~/Assets/Homepagevideotemplate/js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="~/Assets/Homepagevideotemplate/js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="~/Assets/Homepagevideotemplate/js/jquery.waypoints.min.js"></script>
+    <!-- Main JS -->
+    <script src="~/Assets/Homepagevideotemplate/js/main.js"></script>
+
+</body>
+</html>
+

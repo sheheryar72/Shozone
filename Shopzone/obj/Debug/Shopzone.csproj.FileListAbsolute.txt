@@ -1,0 +1,144 @@
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\Shopzone.dll.config
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\Shopzone.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\Shopzone.pdb
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\csc.exe
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\csc.exe.config
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\csc.rsp
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\csi.exe
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\csi.exe.config
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\csi.rsp
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.AppContext.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Console.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.IO.Compression.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Net.Http.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.ValueTuple.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\vbc.exe
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\vbc.exe.config
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\vbc.rsp
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\VBCSCompiler.exe
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Helpers.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Mvc.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Razor.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Webpages.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Razor.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Razor.xml
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Webpages.xml
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Razor.xml
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Helpers.xml
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\System.Web.Mvc.xml
+C:\Users\shehe\source\repos\Shopzone\Shopzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shehe\source\repos\Shopzone\Shopzone\obj\Debug\Shopzone.csproj.AssemblyReference.cache
+C:\Users\shehe\source\repos\Shopzone\Shopzone\obj\Debug\Shopzone.csproj.CoreCompileInputs.cache
+C:\Users\shehe\source\repos\Shopzone\Shopzone\obj\Debug\Shopzone.csproj.CopyComplete
+C:\Users\shehe\source\repos\Shopzone\Shopzone\obj\Debug\Shopzone.dll
+C:\Users\shehe\source\repos\Shopzone\Shopzone\obj\Debug\Shopzone.pdb
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\obj\Debug\Shopzone.csproj.AssemblyReference.cache
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\obj\Debug\Shopzone.csproj.CoreCompileInputs.cache
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\obj\Debug\Shopzone.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\obj\Debug\Shopzone.pdb
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\Shopzone.dll.config
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\Shopzone.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\Shopzone.pdb
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\csc.exe
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\csc.exe.config
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\csc.rsp
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\csi.exe
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\csi.exe.config
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\csi.rsp
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.AppContext.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Collections.Immutable.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Console.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.IO.Compression.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.IO.FileSystem.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Net.Http.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Net.Sockets.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.ValueTuple.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.XPath.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\vbc.exe
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\vbc.exe.config
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\vbc.rsp
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\VBCSCompiler.exe
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\roslyn\VBCSCompiler.exe.config
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\Microsoft.Web.Infrastructure.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Helpers.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Mvc.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Razor.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Deployment.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Webpages.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Razor.dll
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Razor.xml
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Webpages.xml
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Deployment.xml
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Webpages.Razor.xml
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Helpers.xml
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\System.Web.Mvc.xml
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pervious Window Visual Studio Projects\repos\Shopzone\Shopzone\obj\Debug\Shopzone.csproj.CopyComplete
